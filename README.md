@@ -2,4 +2,4 @@
 
 とりあえず ChatGPT API をサクッと colab で動かせるようにしたやつ
 
-[![Open In Colab](https://colab.research.google.com/github/kobayashiharuto/chat_gpt_colab/blob/main/chatgpt_base.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kobayashiharuto/chat_gpt_colab/blob/main/chatgpt_base.ipynb)
